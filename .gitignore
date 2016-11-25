@@ -344,3 +344,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Web/config.json
